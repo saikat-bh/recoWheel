@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: recoWheel
+Version: 0.0.1
+Summary: A PySpark application to reconcile data by generating sha1 hash of all the fields in a dataframe 
+Home-page: https://github.com/saikat-bh/recoWheel
+Author: Saikat Bhattacharjee
+Author-email: bhattacharjee.saikat3@hotmail.com
+License: UNKNOWN
+Description: # python_wheel
+        
+        recoWheel
+        Create a python wheel(whl) file to generate sha1 hash of all row values under every column in a dataframe
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
